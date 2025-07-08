@@ -8,17 +8,7 @@ const About: React.FC = () => {
       role: 'Lead Developer',
       description: 'Full-stack developer dengan passion untuk teknologi pendidikan.',
       avatar: 'https://avatars.githubusercontent.com/u/182060803?v=4',
-    },
-    {
-      name: 'Anonymous',
-      role: 'Design',
-      description: '-.',
-      avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?w=150&h=150&fit=crop&crop=face',
-    },
-  ];
-
-  const contributors = [
-    -
+    }
   ];
 
   return (
@@ -44,7 +34,7 @@ const About: React.FC = () => {
               Misi Kami
             </h2>
           </div>
-          
+
           <div className="grid md:grid-cols-3 gap-8">
             <div className="text-center">
               <Book className="w-12 h-12 text-accent-500 mx-auto mb-4" />
@@ -55,7 +45,7 @@ const About: React.FC = () => {
                 Melestarikan aksara Batak untuk generasi mendatang melalui teknologi digital.
               </p>
             </div>
-            
+
             <div className="text-center">
               <Code className="w-12 h-12 text-green-500 mx-auto mb-4" />
               <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
@@ -65,7 +55,7 @@ const About: React.FC = () => {
                 Menciptakan metode pembelajaran yang menarik dan efektif dengan teknologi modern.
               </p>
             </div>
-            
+
             <div className="text-center">
               <Users className="w-12 h-12 text-purple-500 mx-auto mb-4" />
               <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
@@ -101,26 +91,6 @@ const About: React.FC = () => {
                   {member.description}
                 </p>
               </div>
-            ))}
-          </div>
-        </div>
-
-        {/* Contributors */}
-        <div className="bg-white dark:bg-gray-800 rounded-xl shadow-lg p-8 mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 dark:text-white text-center mb-8">
-            Kontributor
-          </h2>
-          <p className="text-center text-gray-600 dark:text-gray-300 mb-6">
-            Terima kasih kepada semua kontributor yang telah membantu mengembangkan BatakScript
-          </p>
-          <div className="flex flex-wrap justify-center gap-4">
-            {contributors.map((name) => (
-              <span
-                key={name}
-                className="px-4 py-2 bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 rounded-full text-sm"
-              >
-                {name}
-              </span>
             ))}
           </div>
         </div>
