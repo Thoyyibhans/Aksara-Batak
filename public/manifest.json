@@ -1,0 +1,24 @@
+{
+  "name": "BatakScript - Interactive Batak Script Learning Platform",
+  "short_name": "BatakScript",
+  "description": "Learn Batak script through interactive lessons, quizzes, and traditional stories",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2854E1",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "culture"],
+  "lang": "id",
+  "orientation": "portrait"
+}

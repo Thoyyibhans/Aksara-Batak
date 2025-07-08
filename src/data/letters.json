@@ -1,0 +1,154 @@
+[
+  {
+    "id": "ha",
+    "char": "ᯄ",
+    "latin": "ha",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ha.mp3",
+    "stroke": "ha-stroke"
+  },
+  {
+    "id": "ba",
+    "char": "ᯅ",
+    "latin": "ba",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ba.mp3",
+    "stroke": "ba-stroke"
+  },
+  {
+    "id": "pa",
+    "char": "ᯇ",
+    "latin": "pa",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/pa.mp3",
+    "stroke": "pa-stroke"
+  },
+  {
+    "id": "na",
+    "char": "ᯊ",
+    "latin": "na",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/na.mp3",
+    "stroke": "na-stroke"
+  },
+  {
+    "id": "wa",
+    "char": "ᯋ",
+    "latin": "wa",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/wa.mp3",
+    "stroke": "wa-stroke"
+  },
+  {
+    "id": "ga",
+    "char": "ᯌ",
+    "latin": "ga",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ga.mp3",
+    "stroke": "ga-stroke"
+  },
+  {
+    "id": "ja",
+    "char": "ᯏ",
+    "latin": "ja",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ja.mp3",
+    "stroke": "ja-stroke"
+  },
+  {
+    "id": "da",
+    "char": "ᯑ",
+    "latin": "da",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/da.mp3",
+    "stroke": "da-stroke"
+  },
+  {
+    "id": "ra",
+    "char": "ᯒ",
+    "latin": "ra",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ra.mp3",
+    "stroke": "ra-stroke"
+  },
+  {
+    "id": "ma",
+    "char": "ᯔ",
+    "latin": "ma",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ma.mp3",
+    "stroke": "ma-stroke"
+  },
+  {
+    "id": "ta",
+    "char": "ᯖ",
+    "latin": "ta",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ta.mp3",
+    "stroke": "ta-stroke"
+  },
+  {
+    "id": "sa",
+    "char": "ᯘ",
+    "latin": "sa",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/sa.mp3",
+    "stroke": "sa-stroke"
+  },
+  {
+    "id": "ya",
+    "char": "ᯚ",
+    "latin": "ya",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ya.mp3",
+    "stroke": "ya-stroke"
+  },
+  {
+    "id": "nga",
+    "char": "ᯀ",
+    "latin": "nga",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/nga.mp3",
+    "stroke": "nga-stroke"
+  },
+  {
+    "id": "la",
+    "char": "ᯃ",
+    "latin": "la",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/la.mp3",
+    "stroke": "la-stroke"
+  },
+  {
+    "id": "nya",
+    "char": "ᯰ",
+    "latin": "nya",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/nya.mp3",
+    "stroke": "nya-stroke"
+  },
+  {
+    "id": "ca",
+    "char": "ᯞ",
+    "latin": "ca",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/ca.mp3",
+    "stroke": "ca-stroke"
+  },
+  {
+    "id": "kha",
+    "char": "ᯣ",
+    "latin": "kha",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/kha.mp3",
+    "stroke": "kha-stroke"
+  },
+  {
+    "id": "fa",
+    "char": "ᯤ",
+    "latin": "fa",
+    "varian": ["toba", "mandailing", "karo"],
+    "audio": "/audio/fa.mp3",
+    "stroke": "fa-stroke"
+  }
+]

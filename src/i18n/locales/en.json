@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "learn": "Learn",
+    "quiz": "Quiz",
+    "texts": "Texts",
+    "history": "History",
+    "about": "About",
+    "transliterator": "Transliterator"
+  },
+  "home": {
+    "hero": {
+      "title": "Learn Batak Script",
+      "subtitle": "Explore the rich Batak culture through learning traditional script with modern technology",
+      "startLearning": "Start Learning",
+      "exploreTexts": "Explore Texts"
+    },
+    "features": {
+      "title": "Learning Features",
+      "interactive": {
+        "title": "Interactive Learning",
+        "description": "Learn each letter with stroke animations and audio pronunciation"
+      },
+      "quiz": {
+        "title": "Quiz & Practice",
+        "description": "Test your skills with various question types and earn certificates"
+      },
+      "culture": {
+        "title": "Cultural Map",
+        "description": "Explore the distribution of Batak script variants across Sumatra"
+      },
+      "community": {
+        "title": "Community",
+        "description": "Join the learning community and share experiences"
+      }
+    },
+    "stats": {
+      "title": "Join Thousands of Learners",
+      "users": "Active Users",
+      "letters": "Script Letters",
+      "texts": "Pustaha Texts"
+    },
+    "cta": {
+      "title": "Ready to Start Your Learning Journey?",
+      "subtitle": "Join thousands who have learned Batak script",
+      "button": "Start Now - Free!"
+    }
+  },
+  "learn": {
+    "title": "Batak Script Learning",
+    "variant": "Variant",
+    "progress": "Progress",
+    "letters": "Letters",
+    "practice": "Practice",
+    "quiz": "Quiz"
+  },
+  "quiz": {
+    "title": "Batak Script Quiz",
+    "complete": "Quiz Complete!",
+    "score": "Score",
+    "tryAgain": "Try Again",
+    "next": "Next",
+    "previous": "Previous",
+    "finish": "Finish"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Try Again",
+    "close": "Close",
+    "open": "Open",
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

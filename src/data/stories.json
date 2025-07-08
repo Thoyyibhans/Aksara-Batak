@@ -1,0 +1,29 @@
+[
+  {
+    "slug": "si-raja-batak",
+    "title": "Si Raja Batak",
+    "origin": "Toba",
+    "century": 19,
+    "batak": "ᯘᯪᯑᯬ ᯂᯤᯒᯬᯆ ᯘᯪ ᯒᯞ ᯄᯩᯖᯤᯑᯢ ᯘᯪ ᯈᯢᯘᯪ᯲ ᯄᯩᯂᯤᯔᯬ ᯞᯢ ᯘᯪ ᯞᯢᯅᯤᯒᯢᯘᯪᯒᯢᯊ ᯞᯢ ᯘᯪ ᯒᯤᯊᯩᯉ ᯃᯩᯑᯩ ᯒᯤᯊᯩᯉ ᯃᯩᯑᯩ᯲ ᯘᯪ ᯅᯤᯆᯢ ᯄᯩᯖᯤᯑᯢ ᯞᯢ ᯘᯪ ᯄᯤᯅᯢ ᯉᯣᯊᯩ ᯞᯢ ᯅᯢᯊᯬᯞ ᯉᯣᯊᯩ᯲",
+    "latin": "Dahulu berkat si raja batak di tanah Tapanuli si pardosi, habang ca si cabersarsarani ca si rajani laju rajani. Si bagi batak ca si hagoani doni ca bangso doni.",
+    "audio": "/audio/si-raja-batak.mp3"
+  },
+  {
+    "slug": "boraspati-ni-tano",
+    "title": "Boraspati ni Tano",
+    "origin": "Toba",
+    "century": 18,
+    "batak": "ᯃᯫᯒᯞᯘᯨᯖᯪ ᯊᯪ ᯖᯞᯊᯫ ᯓᯞᯃᯢᯊ ᯞ᯦ᯊ ᯓᯞᯃᯢᯊ ᯘᯪ ᯒᯞᯄᯢ ᯆᯞᯒᯞ ᯘᯪ ᯒᯞᯄᯢ ᯞ᯦ᯊ ᯞᯒᯪ ᯞ᯦ᯊ ᯃᯢᯄᯫᯅᯪ᯲ ᯔᯞᯊᯞᯆᯫᯒ ᯃᯫᯒᯞᯘᯨᯖᯪ ᯞ᯦ᯊ ᯓᯞᯃᯢᯊ ᯞ᯦ᯊ ᯃᯫᯄᯫᯊᯢ ᯞ᯦ᯊ ᯔᯞᯘᯩ᯲",
+    "latin": "Boraspati ni tano malean ean malean si raja gara si raja ean ari ean bigabu. Managorur boraspati ean malean ean bigani ean masi.",
+    "audio": "/audio/boraspati-ni-tano.mp3"
+  },
+  {
+    "slug": "tuan-sorimangaraja",
+    "title": "Tuan Sorimangaraja",
+    "origin": "Toba",
+    "century": 19,
+    "batak": "ᯖᯪᯞᯊ ᯘᯫᯒᯪᯔᯞᯊᯨᯒᯞᯄᯞ ᯃᯞᯒᯞᯄᯞ ᯔᯪ ᯞᯢᯃᯪ ᯞ᯦ᯊ ᯄᯞᯃᯫᯄᯞ ᯞ᯦ᯊ ᯄᯞᯃᯫᯄᯞ ᯞ᯦ᯊ ᯓᯞᯘᯢᯊᯪ ᯞ᯦ᯊ ᯔᯞᯒᯥᯔᯞᯊᯨᯒᯞᯄᯞ᯲ ᯔᯞᯔᯢᯔᯬᯊ ᯘᯪ ᯘᯪᯞᯓᯞ ᯊᯪ ᯄᯤᯂᯞᯒᯞᯊ ᯞ᯦ᯊ ᯄᯞᯒᯞᯇᯞᯞᯊ᯲",
+    "latin": "Tuan Sorimangaraja baraja ma andu ean haloba ean haloba ean masiani ean marismangaraja. Mamimuon si sialta ni hugaran ean harapaan.",
+    "audio": "/audio/tuan-sorimangaraja.mp3"
+  }
+]

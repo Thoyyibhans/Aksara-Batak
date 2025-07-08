@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "learn": "Belajar",
+    "quiz": "Kuis",
+    "texts": "Teks",
+    "history": "Sejarah",
+    "about": "Tentang",
+    "transliterator": "Transliterator"
+  },
+  "home": {
+    "hero": {
+      "title": "Belajar Aksara Batak",
+      "subtitle": "Jelajahi kekayaan budaya Batak melalui pembelajaran aksara tradisional dengan teknologi modern",
+      "startLearning": "Mulai Belajar",
+      "exploreTexts": "Jelajahi Teks"
+    },
+    "features": {
+      "title": "Fitur Pembelajaran",
+      "interactive": {
+        "title": "Pembelajaran Interaktif",
+        "description": "Pelajari setiap huruf dengan animasi stroke dan audio pronunciation"
+      },
+      "quiz": {
+        "title": "Kuis & Latihan",
+        "description": "Uji kemampuan dengan berbagai jenis soal dan dapatkan sertifikat"
+      },
+      "culture": {
+        "title": "Peta Budaya",
+        "description": "Jelajahi persebaran varian aksara Batak di seluruh Sumatera"
+      },
+      "community": {
+        "title": "Komunitas",
+        "description": "Bergabung dengan komunitas pembelajar dan berbagi pengalaman"
+      }
+    },
+    "stats": {
+      "title": "Bergabunglah dengan Ribuan Pembelajar",
+      "users": "Pengguna Aktif",
+      "letters": "Huruf Aksara",
+      "texts": "Teks Pustaha"
+    },
+    "cta": {
+      "title": "Siap Memulai Perjalanan Belajar?",
+      "subtitle": "Bergabunglah dengan ribuan orang yang telah mempelajari aksara Batak",
+      "button": "Mulai Sekarang - Gratis!"
+    }
+  },
+  "learn": {
+    "title": "Pembelajaran Aksara Batak",
+    "variant": "Varian",
+    "progress": "Kemajuan",
+    "letters": "Huruf",
+    "practice": "Latihan",
+    "quiz": "Kuis"
+  },
+  "quiz": {
+    "title": "Kuis Aksara Batak",
+    "complete": "Quiz Selesai!",
+    "score": "Skor",
+    "tryAgain": "Coba Lagi",
+    "next": "Selanjutnya",
+    "previous": "Sebelumnya",
+    "finish": "Selesai"
+  },
+  "common": {
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "retry": "Coba Lagi",
+    "close": "Tutup",
+    "open": "Buka",
+    "save": "Simpan",
+    "cancel": "Batal"
+  }
+}

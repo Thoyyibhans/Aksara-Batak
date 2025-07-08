@@ -1,0 +1,242 @@
+[
+  {
+    "id": "basic-consonants",
+    "title": "Konsonan Dasar",
+    "difficulty": "beginner",
+    "items": [
+      {
+        "id": "q1",
+        "question": "Huruf Batak ini dibaca sebagai:",
+        "type": "choice",
+        "choices": ["ba", "ha", "ra", "ma"],
+        "answer": "ha",
+        "char": "ᯄ"
+      },
+      {
+        "id": "q2",
+        "question": "Huruf Batak ini dibaca sebagai:",
+        "type": "choice",
+        "choices": ["ba", "pa", "ma", "na"],
+        "answer": "ba",
+        "char": "ᯅ"
+      },
+      {
+        "id": "q3",
+        "question": "Tuliskan huruf Batak untuk bunyi 'pa':",
+        "type": "type-batak",
+        "answer": "ᯇ"
+      },
+      {
+        "id": "q4",
+        "question": "Huruf ᯊ dibaca sebagai:",
+        "type": "type-latin",
+        "answer": "na"
+      },
+      {
+        "id": "q5",
+        "question": "Pilih huruf yang benar untuk bunyi 'wa':",
+        "type": "choice",
+        "choices": ["ᯋ", "ᯌ", "ᯏ", "ᯑ"],
+        "answer": "ᯋ"
+      }
+    ]
+  },
+  {
+    "id": "intermediate-reading",
+    "title": "Membaca Kata",
+    "difficulty": "intermediate",
+    "items": [
+      {
+        "id": "q6",
+        "question": "Kata ᯄᯤᯒᯢ dibaca sebagai:",
+        "type": "choice",
+        "choices": ["hore", "hara", "hira", "hora"],
+        "answer": "hira"
+      },
+      {
+        "id": "q7",
+        "question": "Tuliskan dalam huruf Latin: ᯅᯤᯒᯢ",
+        "type": "type-latin",
+        "answer": "bira"
+      },
+      {
+        "id": "q8",
+        "question": "Tuliskan dalam aksara Batak: mata",
+        "type": "type-batak",
+        "answer": "ᯔᯞᯖᯞ"
+      },
+      {
+        "id": "q9",
+        "question": "Huruf ᯌ dibaca sebagai:",
+        "type": "choice",
+        "choices": ["ga", "ka", "ja", "da"],
+        "answer": "ga"
+      },
+      {
+        "id": "q10",
+        "question": "Kata 'horas' dalam aksara Batak:",
+        "type": "type-batak",
+        "answer": "ᯄᯫᯒᯞᯘ"
+      }
+    ]
+  },
+  {
+    "id": "advanced-writing",
+    "title": "Menulis Kalimat",
+    "difficulty": "advanced",
+    "items": [
+      {
+        "id": "q11",
+        "question": "Terjemahkan ke Latin: ᯄᯫᯒᯞᯘ ᯔᯞ ᯄᯤᯖᯞ",
+        "type": "type-latin",
+        "answer": "horas ma hita"
+      },
+      {
+        "id": "q12",
+        "question": "Tuliskan dalam aksara Batak: 'mauliate'",
+        "type": "type-batak",
+        "answer": "ᯔᯞᯪᯂᯤᯞᯖᯬ"
+      },
+      {
+        "id": "q13",
+        "question": "Pilih terjemahan yang benar untuk ᯅᯞᯇᯞ ᯊᯞᯔᯞ:",
+        "type": "choice",
+        "choices": ["bapa nama", "bapa nami", "bapa nana", "bapa naga"],
+        "answer": "bapa nama"
+      },
+      {
+        "id": "q14",
+        "question": "Kata 'batak' dalam aksara Batak:",
+        "type": "type-batak",
+        "answer": "ᯅᯞᯖᯞᯂ"
+      },
+      {
+        "id": "q15",
+        "question": "Terjemahkan: ᯞᯂᯞ ᯂᯞᯄᯞᯊ",
+        "type": "type-latin",
+        "answer": "ala lahan"
+      }
+    ]
+  },
+  {
+    "id": "cultural-knowledge",
+    "title": "Pengetahuan Budaya",
+    "difficulty": "intermediate",
+    "items": [
+      {
+        "id": "q16",
+        "question": "Aksara Batak berasal dari aksara:",
+        "type": "choice",
+        "choices": ["Pallava", "Devanagari", "Arabic", "Chinese"],
+        "answer": "Pallava"
+      },
+      {
+        "id": "q17",
+        "question": "Berapa jumlah huruf dasar dalam aksara Batak?",
+        "type": "choice",
+        "choices": ["17", "18", "19", "20"],
+        "answer": "19"
+      },
+      {
+        "id": "q18",
+        "question": "Naskah tradisional Batak disebut:",
+        "type": "choice",
+        "choices": ["Pustaha", "Lontar", "Gebang", "Dluwang"],
+        "answer": "Pustaha"
+      },
+      {
+        "id": "q19",
+        "question": "Varian aksara Batak yang paling umum:",
+        "type": "choice",
+        "choices": ["Toba", "Mandailing", "Karo", "Simalungun"],
+        "answer": "Toba"
+      },
+      {
+        "id": "q20",
+        "question": "Media tradisional untuk menulis aksara Batak:",
+        "type": "choice",
+        "choices": ["Kulit kayu", "Bambu", "Batu", "Semua benar"],
+        "answer": "Semua benar"
+      }
+    ]
+  },
+  {
+    "id": "pronunciation-test",
+    "title": "Tes Pelafalan",
+    "difficulty": "beginner",
+    "items": [
+      {
+        "id": "q21",
+        "question": "Huruf ᯘ dilafalkan sebagai:",
+        "type": "choice",
+        "choices": ["sa", "sha", "cha", "ta"],
+        "answer": "sa"
+      },
+      {
+        "id": "q22",
+        "question": "Bunyi 'nga' ditulis dengan huruf:",
+        "type": "choice",
+        "choices": ["ᯀ", "ᯊ", "ᯌ", "ᯰ"],
+        "answer": "ᯀ"
+      },
+      {
+        "id": "q23",
+        "question": "Huruf ᯚ dilafalkan:",
+        "type": "type-latin",
+        "answer": "ya"
+      },
+      {
+        "id": "q24",
+        "question": "Tuliskan huruf untuk bunyi 'la':",
+        "type": "type-batak",
+        "answer": "ᯃ"
+      },
+      {
+        "id": "q25",
+        "question": "Huruf ᯒ memiliki bunyi:",
+        "type": "choice",
+        "choices": ["ra", "la", "na", "ma"],
+        "answer": "ra"
+      }
+    ]
+  },
+  {
+    "id": "mixed-challenge",
+    "title": "Tantangan Campuran",
+    "difficulty": "advanced",
+    "items": [
+      {
+        "id": "q26",
+        "question": "Susun kata 'mandailing' dalam aksara Batak:",
+        "type": "type-batak",
+        "answer": "ᯔᯞᯊᯑᯞᯤᯂᯤᯰ"
+      },
+      {
+        "id": "q27",
+        "question": "Terjemahkan: ᯘᯪ ᯒᯞᯄᯞ ᯅᯞᯖᯞᯂ",
+        "type": "type-latin",
+        "answer": "si raja batak"
+      },
+      {
+        "id": "q28",
+        "question": "Pilih penulisan yang benar untuk 'toba':",
+        "type": "choice",
+        "choices": ["ᯖᯫᯅᯞ", "ᯖᯫᯇᯞ", "ᯖᯫᯔᯞ", "ᯖᯫᯒᯞ"],
+        "answer": "ᯖᯫᯅᯞ"
+      },
+      {
+        "id": "q29",
+        "question": "Kata ᯔᯞᯒᯞᯄᯞ berarti:",
+        "type": "choice",
+        "choices": ["maraja", "malaha", "manaha", "masaha"],
+        "answer": "maraja"
+      },
+      {
+        "id": "q30",
+        "question": "Tuliskan 'pustaha' dalam aksara Batak:",
+        "type": "type-batak",
+        "answer": "ᯇᯪᯘᯖᯞᯄᯞ"
+      }
+    ]
+  }
+]
