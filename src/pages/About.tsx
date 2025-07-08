@@ -7,8 +7,18 @@ const About: React.FC = () => {
       name: 'Thoyyib Hasonangan',
       role: 'Lead Developer',
       description: 'Full-stack developer dengan passion untuk teknologi pendidikan.',
-      avatar: 'https://thoyyibhans.netlify.app/assets/images/my%20profile.jpg',
+      avatar: 'https://github.com/Thoyyibhans/Aksara-Batak/blob/main/me.jpg',
     },
+    {
+      name: 'Anonymous',
+      role: 'Lead Developer',
+      description: 'Full-stack developer dengan passion untuk teknologi pendidikan.',
+      avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?w=150&h=150&fit=crop&crop=face',
+    },
+  ];
+
+  const contributors = [
+    -
   ];
 
   return (
