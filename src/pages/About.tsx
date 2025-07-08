@@ -4,22 +4,10 @@ import { Heart, Code, Book, Users, Mail, Github, ExternalLink } from 'lucide-rea
 const About: React.FC = () => {
   const team = [
     {
-      name: 'Dr. Mangihut Siahaan',
-      role: 'Ahli Budaya Batak',
-      description: 'Pakar aksara Batak dengan pengalaman 20+ tahun dalam pelestarian budaya.',
-      avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?w=150&h=150&fit=crop&crop=face',
-    },
-    {
-      name: 'Sarah Pandiangan',
+      name: 'Thoyyib Hasonangan',
       role: 'Lead Developer',
       description: 'Full-stack developer dengan passion untuk teknologi pendidikan.',
-      avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?w=150&h=150&fit=crop&crop=face',
-    },
-    {
-      name: 'Rizky Tambunan',
-      role: 'UI/UX Designer',
-      description: 'Designer yang mengkhususkan diri dalam interface pembelajaran interaktif.',
-      avatar: 'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?w=150&h=150&fit=crop&crop=face',
+      avatar: 'https://thoyyibhans.netlify.app/assets/images/my%20profile.jpg',
     },
   ];
 
